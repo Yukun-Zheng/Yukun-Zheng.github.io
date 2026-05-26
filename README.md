@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yukun Zheng Personal Website
 
-<!--
-**isstarfou/isstarfou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Vite + React personal research portfolio for GitHub Pages.
 
-Here are some ideas to get you started:
+## Local development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+Deployment is handled by GitHub Actions through `.github/workflows/deploy.yml`.
